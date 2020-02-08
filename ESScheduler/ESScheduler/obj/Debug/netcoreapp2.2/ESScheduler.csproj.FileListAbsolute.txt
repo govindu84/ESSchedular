@@ -1,0 +1,33 @@
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\Connected Services\DellProductServiceReference\ConnectedService.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\Connected Services\ServiceReferenceDell\ConnectedService.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\ESScheduler.deps.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\ESScheduler.runtimeconfig.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\ESScheduler.runtimeconfig.dev.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\ESScheduler.dll
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\bin\Debug\netcoreapp2.2\ESScheduler.pdb
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.RazorAssemblyInfo.cache
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.RazorAssemblyInfo.cs
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.AssemblyInfoInputs.cache
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.AssemblyInfo.cs
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.RazorTargetAssemblyInfo.cache
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.dll
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\obj\Debug\netcoreapp2.2\ESScheduler.pdb
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.RazorAssemblyInfo.cache
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.RazorAssemblyInfo.cs
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.AssemblyInfoInputs.cache
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.AssemblyInfo.cs
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.dll
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.pdb
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\Connected Services\ServiceReferenceDell\ConnectedService.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\ESScheduler.deps.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\ESScheduler.runtimeconfig.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\ESScheduler.runtimeconfig.dev.json
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\ESScheduler.dll
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\bin\Debug\netcoreapp2.2\ESScheduler.pdb
+D:\Downloads\Dell.SPOT.PHScheduler\Dell.SPOT.PHScheduler\ESScheduler\obj\Debug\netcoreapp2.2\ESScheduler.RazorTargetAssemblyInfo.cache

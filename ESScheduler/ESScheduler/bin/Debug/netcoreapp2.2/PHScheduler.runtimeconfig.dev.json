@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\v-saigov.REDMOND\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\NugetCache"
+    ]
+  }
+}
